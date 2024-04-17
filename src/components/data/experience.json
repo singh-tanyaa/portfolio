@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "role": "Frontend Developer",
+    "organisation": "letsGrowMore",
+    "startDate": "Oct, 2023",
+    "endDate": "Nov,2023",
+    "location": "Wfh",
+    "experiences": [
+      "Worked on frontend"
+      
+    ],
+    "imageSrc": "company/lgm.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "Software Developer intern",
+    "organisation": "Astrojen",
+    "startDate": "May, 2023",
+    "endDate": "July, 2023",
+    "location": "wfh",
+    
+    "imageSrc": "company/startup.jpeg"
+  }
+  
+]
